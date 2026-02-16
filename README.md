@@ -33,8 +33,9 @@ Upload the following files directly to your repository via the browser:
 ---
 
 ## 📝 Project Details
-**Selected Ethiopian App:** > [Name of App Here]
+**Selected Ethiopian App:** > Deliver Addis
 
 
 **Which media did you use for design? (draw.io, Figma, Paper, etc.)**
-> [Your Answer Here]
+> Figma 
+design link: https://www.figma.com/design/xrJTusD9vxwdwUwSO77rXJ/Food-Delivery-App-UI-Kit-Food-App-Design-Food-Mobile-App-Delivery-UI--Community-?node-id=47-23&t=o2ewpG2PsWQ0hIAn-0
